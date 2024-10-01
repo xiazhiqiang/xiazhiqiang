@@ -4,8 +4,8 @@ I’m Zhiqiang Xia, from China, a web developer in both front-end and back-end t
 
 ### Professional Experience
 - Alibaba Cloud (Present): I am responsible for building scalable and secure cloud-based applications, a strong focus on building and integrating large-scale model systems.
-Alibaba Group (Previous): I was spearheaded the development of government information systems aimed at enhancing public services and administrative efficiency.
-Baidu, Inc. (Previous): I was involved in developing user-centric web applications such as questionnaire system, focusing on user experience.
+- Alibaba Group (Previous): I was spearheaded the development of government information systems aimed at enhancing public services and administrative efficiency.
+- Baidu, Inc. (Previous): I was involved in developing user-centric web applications such as questionnaire system, focusing on user experience.
 
 ### Contact
 - 🔭 I’m currently working on Alibaba Cloud.
