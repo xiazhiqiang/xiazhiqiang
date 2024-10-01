@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I’m Zhiqiang Xia, a seasoned developer in both front-end and back-end web development technologies. With a decade of experience under my belt, I’ve had the opportunity to work on a diverse range of projects. My journey has allowed me to master a variety of programming languages and frameworks, and I’m always eager to learn more.
+
+### About me
+- 🔭 I’m currently working on Alibaba Cloud.
+- 🌱 I’m exploring the engineering practice of combining front-end and AI.
+- 📫 How to reach me:
+  - email: xiazhiqiangcuc@126.com
+
 <!--
 **xiazhiqiang/xiazhiqiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
