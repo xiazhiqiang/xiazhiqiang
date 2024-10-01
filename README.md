@@ -7,6 +7,11 @@ I’m Zhiqiang Xia, from China, a web developer in both front-end and back-end t
 - 🌱 I’m exploring the engineering practice of combining front-end and AI.
 - 📫 How to reach me:
   - email: xiazhiqiangcuc@126.com
+ 
+### Skills
+- Front-End Development: React, JavaScript, HTML/CSS etc.
+- Back-End Development: Node.js, Express, PHP, MySQL etc.
+- Additional Skills: Shell, Python, Webpack etc.
 
 <!--
 **xiazhiqiang/xiazhiqiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
